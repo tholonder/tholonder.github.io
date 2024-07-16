@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tholonder.github.io/sitemap
+Sitemap: https://tholonder.github.io/app/sitemap
+Sitemap: https://tholonder.github.io/assets/sitemap
+Sitemap: https://tholonder.github.io/css/sitemap
+Sitemap: https://tholonder.github.io/includes/sitemap
+Sitemap: https://tholonder.github.io/item/sitemap
+Sitemap: https://tholonder.github.io/src/sitemap
